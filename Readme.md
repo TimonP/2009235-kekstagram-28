@@ -3,6 +3,7 @@
 * Студент: [PolinaT](https://up.htmlacademy.ru/javascript/28/user/2009235).
 * Наставник: [Анатолий Долгов](https://htmlacademy.ru/profile/dolgov_anatoly).
 
+_Ссылка на страницу поекта: https://timonp.github.io/2009235-kekstagram-28/
 ---
 
 _Не удаляйте и не изменяйте самовольно файлы и папки:_
